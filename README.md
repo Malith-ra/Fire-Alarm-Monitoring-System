@@ -1,3 +1,4 @@
+![web](https://user-images.githubusercontent.com/53249044/111658845-bc127280-8832-11eb-84fc-167d5ed5c493.png)
 # Fire-Alarm-Monitoring-System
 Implemented for Assignment 02
 
